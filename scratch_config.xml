@@ -6,10 +6,11 @@
         <option value="scratch.md" />
         <option value="keymap_set.md" />
         <option value="tips.md" />
+        <option value="scratch.js" />
         <option value="test" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="keymap_set.md" />
+    <option name="lastOpenedScratch" value="scratch.js" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
